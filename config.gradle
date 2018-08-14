@@ -1,0 +1,16 @@
+ext {
+    // Sdk and tools
+    minSdkVersion = 15
+    targetSdkVersion = 25
+    compileSdkVersion = 26
+    buildToolsVersion = '26.0.2'
+
+    versionCode = 100
+    versionName = '1.0.0'
+
+    // App dependencies
+    supportLibraryVersion = '27.1.1'
+    fragmentationVersion = '1.1.6'
+    butterknifeVersion = '8.8.1'
+
+}
