@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_home"
+        android:icon="@drawable/ic_vector_bottom_home"
+        android:title="主页" />
+
+    <item
+        android:id="@+id/menu_item_memo"
+        android:icon="@drawable/ic_vector_bottom_memo"
+        android:title="备忘" />
+
+    <item
+        android:id="@+id/menu_item_note"
+        android:icon="@drawable/ic_vector_bottom_note"
+        android:title="笔记" />
+
+    <item
+        android:id="@+id/menu_item_mine"
+        android:icon="@drawable/ic_vector_bottom_mine"
+        android:title="我" />
+</menu>
